@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8453984224E3F4D2007A77B2 /* FourLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8453984124E3F4D2007A77B2 /* FourLines.swift */; };
 		8499F77324E2DA5D00FBF4F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8499F77224E2DA5D00FBF4F5 /* AppDelegate.swift */; };
 		8499F77524E2DA5D00FBF4F5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8499F77424E2DA5D00FBF4F5 /* SceneDelegate.swift */; };
 		8499F77724E2DA5D00FBF4F5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8499F77624E2DA5D00FBF4F5 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8453984124E3F4D2007A77B2 /* FourLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourLines.swift; sourceTree = "<group>"; };
 		8499F76F24E2DA5D00FBF4F5 /* Persistense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Persistense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8499F77224E2DA5D00FBF4F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8499F77424E2DA5D00FBF4F5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8499F77224E2DA5D00FBF4F5 /* AppDelegate.swift */,
 				8499F77424E2DA5D00FBF4F5 /* SceneDelegate.swift */,
 				8499F77624E2DA5D00FBF4F5 /* ViewController.swift */,
+				8453984124E3F4D2007A77B2 /* FourLines.swift */,
 				8499F77824E2DA5D00FBF4F5 /* Main.storyboard */,
 				8499F77B24E2DA6000FBF4F5 /* Assets.xcassets */,
 				8499F77D24E2DA6000FBF4F5 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8499F77724E2DA5D00FBF4F5 /* ViewController.swift in Sources */,
+				8453984224E3F4D2007A77B2 /* FourLines.swift in Sources */,
 				8499F77324E2DA5D00FBF4F5 /* AppDelegate.swift in Sources */,
 				8499F77524E2DA5D00FBF4F5 /* SceneDelegate.swift in Sources */,
 			);
